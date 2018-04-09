@@ -1,0 +1,19 @@
+{
+    "author": "Roberto Reale",
+    "title": "Book title",
+    "description": "Book description",
+    "gitbook": ">= 3.x.x",
+    "plugins": [],
+    "root": "./manuscript",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "links": {
+        "sidebar": {
+            "Source Code": "https://github.com/robertoreale/bookseed",
+            "Read on GitBook": "https://robertoreale.gitbooks.io/bookseed/"
+        }
+    },
+    "pluginsConfig": {}
+}

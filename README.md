@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a template for books published via GitHub and GitBooks.
+This repository contains a template for books published via GitHub and GitBook.
 
 ## Where to find the book
 
@@ -15,6 +15,7 @@ Please feel free to fork this repository if there are any edits you should love 
 ## Branches
 
 * the [master](https://github.com/robertoreale/bookseed) branch is the default branch
+* the [gh-pages](https://github.com/robertoreale/bookseed/tree/gh-pages) branch contains the landing page, which is based on the Jekyll theme [compass](https://github.com/excentris/compass) by [Eduardo Rubio](https://github.com/excentris)
 
 ## License notice
 

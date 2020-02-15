@@ -15,7 +15,7 @@ Please feel free to fork this repository if there are any edits you should love 
 ## Branches
 
 * the [master](https://github.com/reale/bookseed) branch is the default branch
-* the [gh-pages](https://github.com/reale/bookseed/tree/gh-pages) branch contains the landing page, which is based on the Jekyll theme [compass](https://github.com/excentris/compass) by [Eduardo Rubio](https://github.com/excentris)
+* the [develop](https://github.com/reale/bookseed/tree/develop) branch is the development branch
 
 ## License notice
 
